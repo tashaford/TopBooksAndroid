@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BookCollection</string>
+    <string name="author">Author details</string>
+    <string name="reveal_author">The author of this app is Natasha Ford.</string>
+</resources>
